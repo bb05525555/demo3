@@ -1,6 +1,7 @@
 $page = input('page') ? input('page') : 0;
 if($page==0){
-alert(0);
+	alert(0);
 }else{
-alert($page);
+	alert($page);
 }
+echo 1;
